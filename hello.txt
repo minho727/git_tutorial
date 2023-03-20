@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 1 line
 2 line
+<<<<<<< Updated upstream
 =======
 First line
 Second line
 >>>>>>> 55dc499 (Fisrt commit from new_brach)
+=======
+3 line
+>>>>>>> Stashed changes
